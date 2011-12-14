@@ -73,7 +73,7 @@ nav ul li a:hover {
 /* Sign up button */
 
 a.signup_button:hover {
-  background: #009900;
+  background: #2C9934;
 }
 
 a.signup_button {
@@ -83,7 +83,7 @@ a.signup_button {
   text-align: center;
   width: 190px;
   color: #fff;
-  background: #006400;
+  background: #237A29;
   font-size: 150%;
   font-weight: bold;
   padding: 20px;
@@ -144,7 +144,7 @@ div.field, div.actions {
 .field_with_errors {
   margin-top: 10px;
   padding: 2px;
-  background-color: red;
+  background-color: #B30000;
   display: table;
 }
 
@@ -154,7 +154,7 @@ div.field, div.actions {
 
 #error_explanation {
   width: 400px;
-  border: 2px solid red;
+  border: 2px solid #690000;
   padding: 7px;
   padding-bottom: 12px;
   margin-bottom: 20px;
@@ -167,7 +167,7 @@ div.field, div.actions {
   padding: 5px 5px 5px 15px;
   font-size: 12px;
   margin: -7px;
-  background-color: #c00;
+  background-color: #B30000;
   color: #fff;
 }
 
@@ -245,5 +245,21 @@ form.new_micropost {
 form.new_micropost textarea {
   height: 4em;
   margin-bottom: 0;
+}
+
+.buttons {
+  font-family:       Verdana, Arial, Helvetica, sans-serif;
+  font-size:         11px;
+  color:             #FFFFFF;
+  background-color:  #237A29;
+  font-weight:       bold;
+  padding:           3px 0;
+  border-width:      0;
+  cursor:            pointer;
+  width:             100px;
+}
+
+.buttons:hover {
+  background-color: #2C9934;
 }
 

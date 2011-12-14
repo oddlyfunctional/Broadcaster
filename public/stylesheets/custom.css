@@ -3,16 +3,11 @@
 }
 
 body {
-  background: #cff;
+  background: #D5F5D7;
 }
 
 header {
   padding-top: 20px;
-}
-
-header img {
-  padding: 1em;
-  background: #fff;
 }
 
 section {

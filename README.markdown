@@ -1,3 +1,4 @@
-# Ruby on Rails Tutorial: sample application
+# Broadcaster - a Twitter-like application
 
-This is the sample application for [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/) by [Michael Hartl](http://michaelhartl.com/).
+Want to know some info about the project? Send an email to danieltamaki.uff@gmail.com!
+

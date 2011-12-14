@@ -2,5 +2,6 @@
                           build(:followed_id => @user.id),
                           :remote => true) do |f| %>
   <div><%= f.hidden_field :followed_id %></div>
-  <div class="actions"><%= f.submit "Follow" %></div>
+  <div class="actions"><%= f.submit "Follow", :class => "buttons round" %></div>
 <% end %>
+

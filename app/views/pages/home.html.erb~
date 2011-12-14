@@ -17,7 +17,7 @@
 <% else %>
 
 <p>
-<a href="http://twitter.com/">Twitter</a> is too mainstream! Checkout this fresh new web page, where you can broadcast your messages... to your underground friends!
+  Twitter is too mainstream! Checkout this fresh new web page, where you can broadcast your messages... to your underground friends!
 </p>
 
 <%= link_to "Sign up now!", signup_path, :class => "signup_button round" %>
